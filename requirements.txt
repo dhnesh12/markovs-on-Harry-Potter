@@ -1,0 +1,7 @@
+click==7.1.2
+joblib==1.0.0
+markovify==0.8.3
+nltk==3.5
+regex==2020.11.13
+tqdm==4.56.0
+Unidecode==1.1.2
