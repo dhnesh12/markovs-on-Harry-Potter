@@ -1,5 +1,5 @@
 # Overview
-Very simply, this project demonstrates how to run Markov Chain on large corpus.
+simply, this project demonstrates how to run Markov Chain on large corpus.
 
 
 In this project, we accumulated All of Harry Potter Books and preprocess the corpus and finally ran Markov's.
@@ -13,6 +13,7 @@ State. Order and State can be changed varied according to the corpus.
 ## OSX/Ubuntu
 
 pip install glob
+
 pip install markovify
 ```
 
